@@ -1,0 +1,55 @@
+# PyCharm project files
+.idea/
+*.iml
+*.iws
+.DS_Store
+ 
+# PyCharm cache files
+*.pyc
+__pycache__/
+
+# Other common files to ignore
+*.log
+*.out
+*.tmp
+*.swp
+*.bak
+*.orig
+*.rej
+*.patch
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.sar
+*.rar
+*.tar.gz*
+*.zip
+*.7z
+*.bz2
+*.gz
+*.tar
+*.tbz2
+*.tgz
+*.Z
+*.deb
+*.rpm
+*.iso
+*.img
+*.dmg
+*.cdimage
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Directories to ignore
+*.git/
+*.svn/
+*.hg/
+*.bzr/
+_darcs/
+CVS/
+
