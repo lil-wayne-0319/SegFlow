@@ -9,6 +9,7 @@
 __pycache__/
 
 # Other common files to ignore
+cmd.txt
 *.log
 *.out
 *.tmp
