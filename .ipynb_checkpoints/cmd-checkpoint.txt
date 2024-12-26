@@ -1,0 +1,7 @@
+MIAD_NAME = ['wind_turbine', 'photovoltaic_module']
+
+# msflow
+python main.py --mode train --dataset miad --class-names wind_turbine --meta-epochs 10 --no_save
+
+# segflow
+python main.py --mode train --dataset miad --class-names wind_turbine --meta-epochs 10 --seg_enable --no_save
